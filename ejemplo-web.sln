@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo-web", "ejemplo-web\ejemplo-web.csproj", "{FAA6F824-DD8A-4AC7-93EA-9389BA716686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio-web", "dominio-web\dominio-web.csproj", "{E1BCA386-FADB-4D9D-A587-39C03A2E5CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA6F824-DD8A-4AC7-93EA-9389BA716686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA6F824-DD8A-4AC7-93EA-9389BA716686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA6F824-DD8A-4AC7-93EA-9389BA716686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA6F824-DD8A-4AC7-93EA-9389BA716686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1BCA386-FADB-4D9D-A587-39C03A2E5CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BCA386-FADB-4D9D-A587-39C03A2E5CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BCA386-FADB-4D9D-A587-39C03A2E5CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BCA386-FADB-4D9D-A587-39C03A2E5CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFECC92A-DA4C-4582-9E8E-39198CD28612}
+	EndGlobalSection
+EndGlobal
